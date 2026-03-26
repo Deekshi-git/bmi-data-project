@@ -29,3 +29,8 @@ This project analyzes BMI data using Python, Pandas, and Matplotlib.
 ## 📈 Output
 - BMI chart (PNG)
 - Processed results (CSV)
+
+## 📊 Sample Output
+
+![BMI Chart](output/bmi_chart.png)
+  
